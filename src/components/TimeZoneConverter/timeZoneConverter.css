@@ -1,0 +1,22 @@
+
+.container.dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .container.dark-mode .list-group-item {
+    background-color: #444;
+    color: #fff;
+  }
+  
+  .container.dark-mode .form-control,
+  .container.dark-mode .btn {
+    background-color: #555;
+    color: #fff;
+    border: 1px solid #666;
+  }
+  
+  .container.dark-mode .btn-primary {
+    background-color: #007bff;
+  }
+  
